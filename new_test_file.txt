@@ -1,1 +1,2 @@
 I have added this txt file to the new branch in GitHub.
+Editing the test file in GH.
